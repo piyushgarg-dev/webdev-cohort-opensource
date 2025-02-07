@@ -1,1 +1,2 @@
-hey it's my first open source contribution (first time using git)
+hey it's my first open source contribution (first time using git) 
+learning git from chaicode cohort
