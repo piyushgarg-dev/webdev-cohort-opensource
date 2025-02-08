@@ -1,1 +1,2 @@
 Hey I'm learing Git and Github;
+hello there, I have made some changes there
